@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570289646 source:d:\universita\esercizi_codeblocks\20191005_esercizio_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
